@@ -12,5 +12,11 @@ y0 = 0
 theta0 = 0
 
 
+# Version 2 parameters
+vmax = 0.25
+amax = 1
+
+
+
 
 
